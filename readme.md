@@ -11,7 +11,7 @@ The project is subdivided into 3 micro-projects:
 - Spring Security
 - Redis
 - MariaDB
-- H2DB
+- H2DB (Integration & Unit Tests)
 
 # Future Version
 With further anticipation of migrating to the Spring-Cloud as the project grows in magnitude. The backend project shall be modularised into several micro-services.
